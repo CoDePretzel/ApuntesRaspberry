@@ -1,1 +1,1 @@
-# Como Instalr Docker en Raspberry pi
+# Como Instalar Docker en Raspberry pi
